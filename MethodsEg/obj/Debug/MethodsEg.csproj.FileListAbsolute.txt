@@ -1,0 +1,7 @@
+C:\Users\swath\Documents\c#\day 2\SecondApplication\MethodsEg\bin\Debug\MethodsEg.exe.config
+C:\Users\swath\Documents\c#\day 2\SecondApplication\MethodsEg\bin\Debug\MethodsEg.exe
+C:\Users\swath\Documents\c#\day 2\SecondApplication\MethodsEg\bin\Debug\MethodsEg.pdb
+C:\Users\swath\Documents\c#\day 2\SecondApplication\MethodsEg\obj\Debug\MethodsEg.csprojAssemblyReference.cache
+C:\Users\swath\Documents\c#\day 2\SecondApplication\MethodsEg\obj\Debug\MethodsEg.csproj.CoreCompileInputs.cache
+C:\Users\swath\Documents\c#\day 2\SecondApplication\MethodsEg\obj\Debug\MethodsEg.exe
+C:\Users\swath\Documents\c#\day 2\SecondApplication\MethodsEg\obj\Debug\MethodsEg.pdb
